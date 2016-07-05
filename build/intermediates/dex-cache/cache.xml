@@ -1,2 +1,96 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
+
+    <item
+        jar="/Users/abhi/Projects/make-my-app-material/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/Users/abhi/Projects/make-my-app-material/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-22.2.0_ff001d8242e56eb32e24977a659ebdf08322db22.jar" />
+    </item>
+    <item
+        jar="/Users/abhi/Projects/make-my-app-material/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/22.0.0/jars/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="def3eff2b7b4774d96ae15b07b3fc0111edbfe24">
+        <dex dex="/Users/abhi/Projects/make-my-app-material/XYZReader/build/intermediates/pre-dexed/debug/internal_impl-22.0.0_8a89969ae92a93579a3da39365cf911d2347ebdb.jar" />
+    </item>
+    <item
+        jar="/Users/abhi/Projects/make-my-app-material/XYZReader/build/intermediates/exploded-aar/com.android.support/design/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="/Users/abhi/Projects/make-my-app-material/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-design-22.2.0_787d3c5072ef8c9b2bcab79d297a69746fed4127.jar" />
+    </item>
+    <item
+        jar="/Users/abhi/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/abhi/Projects/make-my-app-material/XYZReader/build/intermediates/pre-dexed/debug/okio-1.6.0_85638311eda699a486dd98b7e3fbb8b885fb4dac.jar" />
+    </item>
+    <item
+        jar="/Users/abhi/Projects/make-my-app-material/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/abhi/Projects/make-my-app-material/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-support-v4-22.2.0_6a2a1d84e118f6caa9ee69da7101c32963dfa039.jar" />
+    </item>
+    <item
+        jar="/Users/abhi/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.1.2/7052283359001bb108753cb0583a887d3bf94c82/okhttp-3.1.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7052283359001bb108753cb0583a887d3bf94c82">
+        <dex dex="/Users/abhi/Projects/make-my-app-material/XYZReader/build/intermediates/pre-dexed/debug/okhttp-3.1.2_ee4375bd17b6047549f8f50c555420be09aabbda.jar" />
+    </item>
+    <item
+        jar="/Users/abhi/Projects/make-my-app-material/XYZReader/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c6d79137693d494dee16372d3921f919eb724ced">
+        <dex dex="/Users/abhi/Projects/make-my-app-material/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-22.0.0_9930684bcf3a31abab58d484d2ebe75e55575b64.jar" />
+    </item>
+    <item
+        jar="/Users/abhi/Projects/make-my-app-material/XYZReader/libs/volley.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="/Users/abhi/Projects/make-my-app-material/XYZReader/build/intermediates/pre-dexed/debug/volley_52408ede4b3510fe4fc76020c66f55667b83a087.jar" />
+    </item>
+    <item
+        jar="/Users/abhi/Projects/make-my-app-material/XYZReader/build/intermediates/exploded-aar/com.android.support/palette-v7/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="285506e1cf9d5a66878e2aab3884b3427f8734e9">
+        <dex dex="/Users/abhi/Projects/make-my-app-material/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-palette-v7-22.0.0_97c03688c963ba5357defa2dbbfaf5ae1e5c29ca.jar" />
+    </item>
+    <item
+        jar="/Users/abhi/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/abhi/Projects/make-my-app-material/XYZReader/build/intermediates/pre-dexed/debug/support-annotations-22.2.0_d6352ac68be0731069d0690ed3feb86269bd844b.jar" />
+    </item>
+    <item
+        jar="/Users/abhi/Projects/make-my-app-material/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/abhi/Projects/make-my-app-material/XYZReader/build/intermediates/pre-dexed/debug/internal_impl-22.2.0_17d113d84ef154123084e51b76c423815f35ead7.jar" />
+    </item>
+    <item
+        jar="/Users/abhi/Projects/make-my-app-material/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7f9cca1caa023a880b00c382bcc5c90245ae4895">
+        <dex dex="/Users/abhi/Projects/make-my-app-material/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-support-v13-22.0.0_16d540a1d07805d3259fa677252636435990d8d8.jar" />
+    </item>
+    <item
+        jar="/Users/abhi/Projects/make-my-app-material/XYZReader/build/intermediates/exploded-aar/com.android.support/cardview-v7/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="11842de6a309c447b3a3d60d73ad637a87c58994">
+        <dex dex="/Users/abhi/Projects/make-my-app-material/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-22.0.0_c5675c755e416bef78662b4ec82e9b8d2fa26c15.jar" />
+    </item>
+
+</items>
